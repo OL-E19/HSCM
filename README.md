@@ -1,4 +1,4 @@
-# HINT
+# HSCM
 
 **Pre-trained model**
 ----------------------
