@@ -1,17 +1,17 @@
 # HSCM
-
+Hierarchical Sequential Context Modelling for  High-Fidelity Image Inpainting
 **Pre-trained model**
 ----------------------
 We released the pre-trained model 
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/folders/13RVnOWo7iI8JMlxzWxhq89F2de62_A5V?usp=drive_link)
 
 **Test masks**
 ----------------------
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/folders/1zbqWaMd5hyZOhfppLZF_OGNJl1yFSo1h?usp=drive_link)
 
 **Inpainting results**
 ----------------------
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/folders/1g7jixSdx-06WmqTIPGDhtTSxCm3JGrQm?usp=drive_link)
 
 **Getting Started**
 ----------------------
